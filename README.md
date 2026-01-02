@@ -1,7 +1,7 @@
 
 # Simple-CV
 
-A minimalistic, multi-page CV template with BibLaTeX support, inspired by works of [Sourabh Bajaj](https://github.com/sb2nov/resume) and [Seojin Bang](https://github.com/SeojinBang/TidyCV).
+A minimalistic, multi-page CV template with BibLaTeX support, inspired by works of [Sourabh Bajaj](https://github.com/sb2nov/resume) and [Seojin Bang](https://github.com/SeojinBang/TidyCV). Forked from [dcetin](https://github.com/dcetin/Simple-CV)
 
 ## Usage
 

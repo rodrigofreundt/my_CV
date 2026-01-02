@@ -6,20 +6,20 @@
 \bibliography{papers}
 
 % Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue, Blue
-\def\theme{MidnightBlue}
+\def\theme{black}
 
 \usepackage{simplecv}
+\usepackage{orcidlink}
 
-\boldname{Cetin}{Doruk}{D.}
+\boldname{Freundt}{Rodrigo}{G.}
 
 \begin{document}
 
 % Heading
-\headinginline{Doruk Çetin}{
-    \faEnvelope: \email{doruk.cetin.dc@gmail.com} \\
-    \faGlobe: \website{dcetin.me} 
-    % \faLinkedin: \linkedin{doruk-cetin} 
-    \faGithub: \github{dcetin}
+\headinginline{Rodrigo G. Freundt \orcidlink{0000-0002-8169-538X}}{
+    \faEnvelope: \email{rgf57@cornell.edu} \\
+    \faGlobe: \website{rodrigofreundt.github.io/} \\
+    \faLinkedin: \linkedin{rodrigo-freundt}\\
 }
 
 % \headingphoto{Doruk Çetin}{
@@ -32,11 +32,11 @@
 % Page One
 \import{sections/}{education.tex}
 \import{sections/}{experience.tex}
-\import{sections/}{publications.tex}
 
 \pagebreak
 
 % Page Two
+\import{sections/}{publications.tex}
 \import{sections/}{teaching.tex}
 \sidebyside
     {\import{sections/}{skills.tex}}

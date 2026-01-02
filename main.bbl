@@ -1,0 +1,191 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{freundt2024CCATStatusUpdate}{inproceedings}{}
+      \name{author}{18}{}{%
+        {{hash=f071fce1537dc6746d6e562a63e119c1}{%
+           family={Freundt},
+           familyi={F\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b826d8e5f23f278d95419829cdc65e9e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yaqiong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=130a2bbe3be1ab18f2460c420c1ce9be}{%
+           family={Henke},
+           familyi={H\bibinitperiod},
+           given={Doug},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ffeb24267049d61d056a650b724076f3}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dd9eed647211d950f9b13c58aaeae244}{%
+           family={Burgoyne},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=963622793bb6b9ba18625d5b98abaf03}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9d727e0bafb6837c4f9f54bfe4ebf983}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Steve\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=dc4245bb577b4febb782ac673650715a}{%
+           family={Duell},
+           familyi={D\bibinitperiod},
+           given={Cody\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=dc02c757d2fe40b623445a91b938f1e0}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Zach},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=4b28b6ccdb6acd93e38558f7f1a5cf83}{%
+           family={Niemack},
+           familyi={N\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b7630f820a725b7a47779a6d5aa02ae2}{%
+           family={Nikola},
+           familyi={N\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8b5bfd0117ad1915eda8b308f65847ec}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7c5aceef54194c376c5d232d69a695d4}{%
+           family={Riechers},
+           familyi={R\bibinitperiod},
+           given={Dominik\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b6d36baaa5fce427089cb736bb27bfd1}{%
+           family={Stacey},
+           familyi={S\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4283507c927e7dfeae6b41510d7203a2}{%
+           family={Vaskuri},
+           familyi={V\bibinitperiod},
+           given={Anna\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=1b29aff0e88f6a537399711b16202665}{%
+           family={Vavagiakis},
+           familyi={V\bibinitperiod},
+           given={Eve\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a0ef55132a6ec4e6a610245c69802cc5}{%
+           family={Wheeler},
+           familyi={W\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5bf9b5797dfb0bfe77f1d6f3eb94be37}{%
+           family={Zou},
+           familyi={Z\bibinitperiod},
+           given={Bugao},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SPIE}%
+      }
+      \strng{namehash}{9077b61f11f7ad81ea96351299babeca}
+      \strng{fullhash}{e9da1375bf676f98da25946f85f7bdf9}
+      \strng{bibnamehash}{e9da1375bf676f98da25946f85f7bdf9}
+      \strng{authorbibnamehash}{e9da1375bf676f98da25946f85f7bdf9}
+      \strng{authornamehash}{9077b61f11f7ad81ea96351299babeca}
+      \strng{authorfullhash}{e9da1375bf676f98da25946f85f7bdf9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The Epoch of Reionization Spectrometer (EoR-Spec) is an upcoming Line Intensity Mapping (LIM) instrument designed to study the evolution of the early universe (z = 3.5 to 8) by probing the redshifted [CII] 158 μm fine-structure line from aggregates of galaxies. The [CII] emission is an excellent tracer of star formation since it is the dominant cooling line from neutral gas heated by OB star light and thus can be used to probe the reionization of the early Universe due to star formation. EoR-Spec will be deployed on Prime-Cam, a modular direct-detection receiver for the 6-meter Fred Young Submillimeter Telescope (FYST), currently under construction by CPI Vertex Antennentechnik GmbH and to be installed near the summit of Cerro Chajnantor in the Atacama Desert. This instrument features an image plane populated with more than 6500 Microwave Kinetic Inductance Detectors (MKIDs) that are illuminated by a 4-lens optical design with a cryogenic, scanning Fabry-Perot Interferometer (FPI) at the pupil of the optical system. The FPI is designed to provide a spectral resolving power of R ∼ 100 over the full spectral range of 210–420 GHz. EoR-Spec will tomographically survey the E-COSMOS and E-CDFS fields with a depth of about 4000 hours over a 5 year period. Here we give an update on EoR-Spec’s final mechanical/optical design and the current status of fabrication, characterization and testing towards first light in 2026.}
+      \field{booktitle}{Millimeter, {{Submillimeter}}, and {{Far-Infrared Detectors}} and {{Instrumentation}} for {{Astronomy XII}}}
+      \field{day}{16}
+      \field{eventtitle}{Millimeter, {{Submillimeter}}, and {{Far-Infrared Detectors}} and {{Instrumentation}} for {{Astronomy XII}}}
+      \field{month}{8}
+      \field{shorttitle}{{{CCAT}}}
+      \field{title}{{{CCAT}}: A Status Update on the {{EoR-Spec}} Instrument Module for {{Prime-Cam}}}
+      \field{volume}{13102}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{343\bibrangedash 352}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1117/12.3018477
+      \endverb
+      \verb{file}
+      \verb /Users/rodrigofreundt/Zotero/storage/DVQGAQCQ/Freundt et al. - 2024 - CCAT a status update on the EoR-Spec instrument module for Prime-Cam.pdf
+      \endverb
+    \endentry
+    \entry{freundt2017DesignLabVIEWbasedPolyphase}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=d787e5d8fa18d03d7ec7df7425039e2d}{%
+           family={Freundt},
+           familyi={F\bibinitperiod},
+           given={Rodrigo\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=656615bd6215903d6930b54ae18284e1}{%
+           family={Heraud},
+           familyi={H\bibinitperiod},
+           given={Jorge\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9f7a27511c495690ffc9f84aeb4d25c}
+      \strng{fullhash}{b9f7a27511c495690ffc9f84aeb4d25c}
+      \strng{bibnamehash}{b9f7a27511c495690ffc9f84aeb4d25c}
+      \strng{authorbibnamehash}{b9f7a27511c495690ffc9f84aeb4d25c}
+      \strng{authornamehash}{b9f7a27511c495690ffc9f84aeb4d25c}
+      \strng{authorfullhash}{b9f7a27511c495690ffc9f84aeb4d25c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The spectrometer is the most important back-end in single antenna radio astronomy observations. The state-of-the-art designs for this type of instruments propose to reduce the effects of spectral leakage by using the Polyphase Filter Bank (PFB) technique and to achieve wideband and high resolution by using digital, reconfigurable, and high-performance computing hardware, such as commercial-available FPGA and GPU. We herein describe the development of a prototype PFB spectrometer using an integrated hardware and software development environment from National Instruments (Nl), along with FlexRIO FPGA technology for acquisition and CUDA-enabled GPU card for intensive processing. The results show that the proposed design, configured as a 4-tap PFB with 222 channels and 200MHz instantaneous bandwidth, is 95 times faster than a CPU implementation. It can be concluded that the hardware and software design approach used to prototype the spectrometer in this paper must be further studied within radio astronomy applications.}
+      \field{booktitle}{2017 {{XXXIInd General Assembly}} and {{Scientific Symposium}} of the {{International Union}} of {{Radio Science}} ({{URSI GASS}})}
+      \field{eventtitle}{2017 {{XXXIInd General Assembly}} and {{Scientific Symposium}} of the {{International Union}} of {{Radio Science}} ({{URSI GASS}})}
+      \field{month}{8}
+      \field{title}{Design of a {{LabVIEW-based}} Polyphase Filter Bank Spectrometer for Radio Astronomy Using {{FlexRIO FPGA}} Technology and {{CUDA-enabled GPU}}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.23919/URSIGASS.2017.8105039
+      \endverb
+      \verb{file}
+      \verb /Users/rodrigofreundt/Zotero/storage/2LITQCEP/8105039.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
