@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1767319899.8469 "main.bcf" "main.bbl" "main" 1767321381.53461 0
-  "main.bcf" 1767321381.39484 107950 ee80072d0114823d036e7db22c9716bd "pdflatex"
+["biber main"] 1767328038.8238 "main.bcf" "main.bbl" "main" 1767328046.00425 0
+  "main.bcf" 1767328045.86519 107950 ee80072d0114823d036e7db22c9716bd "pdflatex"
   "papers.bib" 1767319899.71613 4276 91f49c8d45bcb6cbb8ecb9ce8dbf4910 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1767321380.02646 "/Users/rodrigofreundt/Developer/12-latex/my_CV/main.tex" "main.pdf" "main" 1767321381.53487 0
-  "/Users/rodrigofreundt/Developer/12-latex/my_CV/main.tex" 1767321378.20473 1218 3b8c86b8622929f07d47eb63fbc9c982 ""
+["pdflatex"] 1767328044.43628 "/Users/rodrigofreundt/Developer/12-latex/my_CV/main.tex" "main.pdf" "main" 1767328046.00454 0
+  "/Users/rodrigofreundt/Developer/12-latex/my_CV/main.tex" 1767328037.08532 1236 033770a2f93d9d29b461503013225303 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -30,7 +30,6 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
@@ -211,20 +210,17 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1712416177.60076 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1712416091 8221434 417ea75d73b38f726f238591ddeb1f9d ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1767321381.38981 1702 deafa242c9d3ce9a7b6f5bb68f57f80c "pdflatex"
-  "main.bbl" 1767319902.21244 10118 99e4c3a928f077a61bb6c78a00369012 "biber main"
-  "main.out" 1767321381.39172 947 e81918215e3e6abf15faad337d558c1c "pdflatex"
-  "main.run.xml" 1767321381.3955 2429 aa27430cbcfbb331e81cd67eed9b29d4 "pdflatex"
-  "main.tex" 1767321378.20473 1218 3b8c86b8622929f07d47eb63fbc9c982 ""
-  "sections/awards.tex" 1767316727.92253 849 e99b648fd94deda291c547c5fce41e78 ""
-  "sections/education.tex" 1767320209.13112 469 723acb2462ca254b1a366a442fa90aa1 ""
+  "main.aux" 1767328045.85906 1367 a772ca8eeaa864f01f92529a43c7fb68 "pdflatex"
+  "main.bbl" 1767328041.18252 10118 99e4c3a928f077a61bb6c78a00369012 "biber main"
+  "main.out" 1767328045.86167 604 9e2fc6637147a25ce94959b832edecee "pdflatex"
+  "main.run.xml" 1767328045.866 2429 aa27430cbcfbb331e81cd67eed9b29d4 "pdflatex"
+  "main.tex" 1767328037.08532 1236 033770a2f93d9d29b461503013225303 ""
+  "sections/awards.tex" 1767326705.92287 799 a20f311ef025321077139f3f9b27938f ""
+  "sections/education.tex" 1767325599.62859 469 723acb2462ca254b1a366a442fa90aa1 ""
   "sections/experience.tex" 1767321310.04167 2554 fd72016be65fe58df84854866f8171ef ""
-  "sections/languages.tex" 1767316727.92345 293 ead943edefdd411f39766af985d4108f ""
-  "sections/projects.tex" 1767316727.92353 577 63d3011efd238e83ce606a3b8c0e22f4 ""
   "sections/publications.tex" 1767316727.92361 433 b2b2a8b8e9aa91e8daf421a006b7a836 ""
-  "sections/skills.tex" 1767316727.92368 263 4a0ecd37979f2a22778652dda434b108 ""
-  "sections/teaching.tex" 1767316727.92375 345 eb9e39f1fa76068b85ecb30bc66591ca ""
-  "sections/volunteering.tex" 1767316727.92383 988 0dd76111e937fc8bbf648d023dcddf14 ""
+  "sections/skills.tex" 1767327054.07961 286 5130390c9fe460757d3dd1c1eb1615a6 ""
+  "sections/teaching.tex" 1767327593.94111 311 fff8efdeb1e82f0abc634f042ece0b5b ""
   "simplecv.sty" 1767317865.78639 4867 5217922ec6abe8e9eee3deee3a6bb340 ""
   (generated)
   "main.aux"
