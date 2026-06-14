@@ -14,15 +14,17 @@ jobs:
       - name: Checkout CV repo
         uses: actions/checkout@v4
 
+      - name: Rename PDF
+        run: cp main.pdf CV_rodrigo_freundt.pdf
+
       - name: Push PDF to website repo
         uses: dmnemec/copy_file_to_another_repo_action@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.WEBSITE_REPO_TOKEN }}
         with:
-          source_file: 'main.pdf'
+          source_file: 'CV_rodrigo_freundt.pdf'
           destination_repo: 'rodrigofreundt/rodrigofreundt.github.io'
           destination_folder: 'assets/pdf'
-          destination_filename: 'CV_rodrigo_freundt.pdf'
           user_email: 'rodrigo.freundt@gmail.com'
           user_name: 'rodrigofreundt'
           commit_message: 'chore: update CV PDF from my_CV repo'
