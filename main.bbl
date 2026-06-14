@@ -21,11 +21,11 @@
   \datalist[entry]{ydnt/global//global/global}
     \entry{freundt2024CCATStatusUpdate}{inproceedings}{}
       \name{author}{18}{}{%
-        {{hash=f071fce1537dc6746d6e562a63e119c1}{%
+        {{hash=d787e5d8fa18d03d7ec7df7425039e2d}{%
            family={Freundt},
            familyi={F\bibinitperiod},
-           given={Rodrigo},
-           giveni={R\bibinitperiod}}}%
+           given={Rodrigo\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=b826d8e5f23f278d95419829cdc65e9e}{%
            family={Li},
            familyi={L\bibinitperiod},
@@ -115,12 +115,12 @@
       \list{publisher}{1}{%
         {SPIE}%
       }
-      \strng{namehash}{9077b61f11f7ad81ea96351299babeca}
-      \strng{fullhash}{e9da1375bf676f98da25946f85f7bdf9}
-      \strng{bibnamehash}{e9da1375bf676f98da25946f85f7bdf9}
-      \strng{authorbibnamehash}{e9da1375bf676f98da25946f85f7bdf9}
-      \strng{authornamehash}{9077b61f11f7ad81ea96351299babeca}
-      \strng{authorfullhash}{e9da1375bf676f98da25946f85f7bdf9}
+      \strng{namehash}{8e6bdf213a6120036e57b4d76042bf69}
+      \strng{fullhash}{5f740aa42e294054a22a6eaacb9eabcc}
+      \strng{bibnamehash}{5f740aa42e294054a22a6eaacb9eabcc}
+      \strng{authorbibnamehash}{5f740aa42e294054a22a6eaacb9eabcc}
+      \strng{authornamehash}{8e6bdf213a6120036e57b4d76042bf69}
+      \strng{authorfullhash}{5f740aa42e294054a22a6eaacb9eabcc}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
