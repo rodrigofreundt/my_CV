@@ -13,16 +13,6 @@ To use the alternative headers just uncomment the relevant lines in the main tex
 Theme color and bibliography style can similarly be set at the top of the main tex file. See [Colors entry in LaTeX wikibooks](https://en.wikibooks.org/wiki/LaTeX/Colors) for more predefined colors.
 Template also supports Chinese and Cyrillic characters, you just need uncomment the relevant lines in the preamble.
 
-## Preview
-
-First page                 | Second page
-:-------------------------:|:-------------------------:
-![black-1](img/black-1.png)|![black-2](img/black-2.png)
-
-Header with photo                | Blue theme               | Red theme
-:-------------------------------:|:------------------------:|:---------------------:
-![blue-1](img/black_photo-1.png) |![green-1](img/blue-1.png)|![red-1](img/red-1.png)
-
 ## License
 
 Available under [the MIT license](https://opensource.org/licenses/MIT), but all the data is owned by me.
