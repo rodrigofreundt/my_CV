@@ -147,23 +147,23 @@
     \endentry
     \entry{freundt2017DesignLabVIEWbasedPolyphase}{inproceedings}{}
       \name{author}{2}{}{%
-        {{hash=d787e5d8fa18d03d7ec7df7425039e2d}{%
+        {{hash=f071fce1537dc6746d6e562a63e119c1}{%
            family={Freundt},
            familyi={F\bibinitperiod},
-           given={Rodrigo\bibnamedelima G.},
-           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           given={Rodrigo},
+           giveni={R\bibinitperiod}}}%
         {{hash=656615bd6215903d6930b54ae18284e1}{%
            family={Heraud},
            familyi={H\bibinitperiod},
            given={Jorge\bibnamedelima A.},
            giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{b9f7a27511c495690ffc9f84aeb4d25c}
-      \strng{fullhash}{b9f7a27511c495690ffc9f84aeb4d25c}
-      \strng{bibnamehash}{b9f7a27511c495690ffc9f84aeb4d25c}
-      \strng{authorbibnamehash}{b9f7a27511c495690ffc9f84aeb4d25c}
-      \strng{authornamehash}{b9f7a27511c495690ffc9f84aeb4d25c}
-      \strng{authorfullhash}{b9f7a27511c495690ffc9f84aeb4d25c}
+      \strng{namehash}{7748c549639c12ee3f68eee315020dbc}
+      \strng{fullhash}{7748c549639c12ee3f68eee315020dbc}
+      \strng{bibnamehash}{7748c549639c12ee3f68eee315020dbc}
+      \strng{authorbibnamehash}{7748c549639c12ee3f68eee315020dbc}
+      \strng{authornamehash}{7748c549639c12ee3f68eee315020dbc}
+      \strng{authorfullhash}{7748c549639c12ee3f68eee315020dbc}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
