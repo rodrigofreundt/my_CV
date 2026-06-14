@@ -13,6 +13,12 @@ To use the alternative headers just uncomment the relevant lines in the main tex
 Theme color and bibliography style can similarly be set at the top of the main tex file. See [Colors entry in LaTeX wikibooks](https://en.wikibooks.org/wiki/LaTeX/Colors) for more predefined colors.
 Template also supports Chinese and Cyrillic characters, you just need uncomment the relevant lines in the preamble.
 
+## My Setup
+
+This repo is compiled locally with LuaLaTeX via VS Code + LaTeX Workshop. The compiled `main.pdf` is committed alongside the source. On every push, a GitHub Actions workflow (`.github/workflows/sync-pdf.yml`) automatically copies `main.pdf` to the website repo ([rodrigofreundt.github.io](https://github.com/rodrigofreundt/rodrigofreundt.github.io)) as `assets/pdf/CV_rodrigo_freundt.pdf`, triggering a redeploy of the personal site.
+
+VS Code is configured via `.vscode/settings.json` to use LuaLaTeX with a two-pass recipe to resolve cross-references.
+
 ## License
 
 Available under [the MIT license](https://opensource.org/licenses/MIT), but all the data is owned by me.
