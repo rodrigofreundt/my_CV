@@ -4,6 +4,7 @@
 % Choose bibliography style for formatting list of publications
 \usepackage[style=ieee,url=false,doi=false,maxbibnames=20,sorting=ydnt,dashed=false]{biblatex}
 
+% Define journal abbreviations for bibliography entries
 \newcommand{\jcap}{J. Cosmology Astropart. Phys.}
 \newcommand{\apj}{Astrophys. J.}
 \newcommand{\apjl}{Astrophys. J. Lett.}
@@ -13,8 +14,15 @@
 \newcommand{\prd}{Phys. Rev. D}
 \newcommand{\prl}{Phys. Rev. Lett.}
 
+% hide numbering of bibliography entries
+%\defbibenvironment{bibliography}
+%  {\list{}{\setlength{\leftmargin}{\bibhang}}}
+%  {\endlist}
+%  {\item}
+
 \bibliography{papers}
 
+% Custom name format for first author in bibliography
 \DeclareNameFormat{firstauthor}{%
   \ifnumequal{\value{listcount}}{1}
     {\namepartfamily, \namepartgiveni}%
@@ -36,7 +44,10 @@
 \def\theme{black}
 
 \usepackage{simplecv}
+\usepackage{hyperref}
 \usepackage{orcidlink}
+\usepackage{fontspec}
+\setmainfont{Latin Modern Roman}
 
 \boldname{Freundt}{Rodrigo}{G.}
 
