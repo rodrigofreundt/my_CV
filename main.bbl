@@ -125,6 +125,329 @@
       \endverb
       \keyw{Stripline;Instruments;Circuits;Detectors;Coaxial cables;Radio frequency;Electrical resistance measurement;Copper;Crosstalk;Cameras;Cosmic microwave background (CMB);flexible circuits;instrumentation;kinetic inductance detector (KID);readout}
     \endentry
+    \entry{10803081}{article}{}
+      \name{author}{24}{}{%
+        {{hash=e8640e03c85600b1a7e9045eddda0bdf}{%
+           family={Middleton},
+           familyi={M\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9d727e0bafb6837c4f9f54bfe4ebf983}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Steve\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e9a2c2db1c87174971af0bcdbabea4ac}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ffeb24267049d61d056a650b724076f3}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dd9eed647211d950f9b13c58aaeae244}{%
+           family={Burgoyne},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=13fa851131ab5f7090407f5a76b27d71}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Victoria},
+           giveni={V\bibinitperiod}}}%
+        {{hash=05279442a0757a846b3a2a01ba39e3af}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Scott\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b123e7c214e0cda77d65b3456b16b91f}{%
+           family={Crites},
+           familyi={C\bibinitperiod},
+           given={Abigail\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=dc4245bb577b4febb782ac673650715a}{%
+           family={Duell},
+           familyi={D\bibinitperiod},
+           given={Cody\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d787e5d8fa18d03d7ec7df7425039e2d}{%
+           family={Freundt},
+           familyi={F\bibinitperiod},
+           given={Rodrigo\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=ecc7ff94e9313dfef4134d8521067f4c}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Anthony\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=e1a64cc44a6d6d182ee3f98ed76d2cd0}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Zachary\bibnamedelima B.},
+           giveni={Z\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=827a90b8324b4ff3b15a7d16a76aa7fa}{%
+           family={Hubmayr},
+           familyi={H\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c4a882febc8a5b27211720c0f5263380}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8f2aaddc2391faeb7c5bfd2dc79717d9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Lawrence\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=20b1afb78e8d49b460a32a8f27b39cc2}{%
+           family={Niemack},
+           familyi={N\bibinitperiod},
+           given={Michael\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=446120534451d5bb21031f4680ef784d}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Darshan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e667d6ef5b97d9a153ee17661d320f19}{%
+           family={Sinclair},
+           familyi={S\bibinitperiod},
+           given={Adrian\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=d871d5de85f0d866b634f0339399cd80}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Ema},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9055237846610f85e5d060476d033d2e}{%
+           family={Vaskuri},
+           familyi={V\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1b29aff0e88f6a537399711b16202665}{%
+           family={Vavagiakis},
+           familyi={V\bibinitperiod},
+           given={Eve\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bf2d0d7ffb2d2c6a914f73bab728a633}{%
+           family={Vissers},
+           familyi={V\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f09bcf039fad548685e22adbafd36be1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuhan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a0ef55132a6ec4e6a610245c69802cc5}{%
+           family={Wheeler},
+           familyi={W\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ad63907b8a19eb57f77efc2da8d2563}
+      \strng{fullhash}{bb9298f0e6d55bdd7bdd89062217d062}
+      \strng{bibnamehash}{1ad63907b8a19eb57f77efc2da8d2563}
+      \strng{authorbibnamehash}{1ad63907b8a19eb57f77efc2da8d2563}
+      \strng{authornamehash}{1ad63907b8a19eb57f77efc2da8d2563}
+      \strng{authorfullhash}{bb9298f0e6d55bdd7bdd89062217d062}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Applied Superconductivity}
+      \field{number}{5}
+      \field{title}{CCAT: LED Mapping and Characterization of the 280 GHz TiN KID Array}
+      \field{volume}{35}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/TASC.2024.3517564
+      \endverb
+      \keyw{Light emitting diodes;Detectors;Resonant frequency;Tin;Resonators;Frequency measurement;Telescopes;Extraterrestrial measurements;Capacitors;Astronomy;Other non-equilibrium (non-thermal) detectors (e.g. SIS;MKID);submillimeter wave detectors;superconducting detectors}
+    \endentry
+    \entry{2025JATIS..11b6005V}{article}{}
+      \name{author}{30}{}{%
+        {{hash=4283507c927e7dfeae6b41510d7203a2}{%
+           family={{Vaskuri}},
+           familyi={V\bibinitperiod},
+           given={Anna\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=5f6cc2f13a44fa9d06b1998bd79e9255}{%
+           family={{Wheeler}},
+           familyi={W\bibinitperiod},
+           given={Jordan\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8ff6f46c1336d9188363023408521202}{%
+           family={{Austermann}},
+           familyi={A\bibinitperiod},
+           given={Jason\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=5a68fccafae2d93fec6f8ff1597071ff}{%
+           family={{Vissers}},
+           familyi={V\bibinitperiod},
+           given={Michael\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=73639feb105d83b53febe4e1384802ab}{%
+           family={{Beall}},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ae930e509a81244887d1614a39a91da8}{%
+           family={{Burgoyne}},
+           familyi={B\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=13fa851131ab5f7090407f5a76b27d71}{%
+           family={{Butler}},
+           familyi={B\bibinitperiod},
+           given={Victoria},
+           giveni={V\bibinitperiod}}}%
+        {{hash=963622793bb6b9ba18625d5b98abaf03}{%
+           family={{Chapman}},
+           familyi={C\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9d727e0bafb6837c4f9f54bfe4ebf983}{%
+           family={{Choi}},
+           familyi={C\bibinitperiod},
+           given={Steve\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=82341f7573998d818bdf73e6518ef195}{%
+           family={{Crites}},
+           familyi={C\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dc4245bb577b4febb782ac673650715a}{%
+           family={{Duell}},
+           familyi={D\bibinitperiod},
+           given={Cody\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f071fce1537dc6746d6e562a63e119c1}{%
+           family={{Freundt}},
+           familyi={F\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a65d126fe64ae745c8c0dd74dd7e6c41}{%
+           family={{Huber}},
+           familyi={H\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e1a64cc44a6d6d182ee3f98ed76d2cd0}{%
+           family={{Huber}},
+           familyi={H\bibinitperiod},
+           given={Zachary\bibnamedelima B.},
+           giveni={Z\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=827a90b8324b4ff3b15a7d16a76aa7fa}{%
+           family={{Hubmayr}},
+           familyi={H\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cee2692649196755e11cd58dc4df3c87}{%
+           family={{Imrek}},
+           familyi={I\bibinitperiod},
+           given={Jozsef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c4a882febc8a5b27211720c0f5263380}{%
+           family={{Keller}},
+           familyi={K\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8b5bfd0117ad1915eda8b308f65847ec}{%
+           family={{Lin}},
+           familyi={L\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e8640e03c85600b1a7e9045eddda0bdf}{%
+           family={{Middleton}},
+           familyi={M\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=20b1afb78e8d49b460a32a8f27b39cc2}{%
+           family={{Niemack}},
+           familyi={N\bibinitperiod},
+           given={Michael\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b7630f820a725b7a47779a6d5aa02ae2}{%
+           family={{Nikola}},
+           familyi={N\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b3fcde17ec5bc7c7824731d572389d35}{%
+           family={{Scott}},
+           familyi={S\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c8ca91d1e3f024fee27de580cfefe623}{%
+           family={{Sinclair}},
+           familyi={S\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d871d5de85f0d866b634f0339399cd80}{%
+           family={{Smith}},
+           familyi={S\bibinitperiod},
+           given={Ema},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b6d36baaa5fce427089cb736bb27bfd1}{%
+           family={{Stacey}},
+           familyi={S\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6572563fdd596fcd17a1686cdc5f5e39}{%
+           family={{Ullom}},
+           familyi={U\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dbfe451a5ea91de3d2ab1b5e50303645}{%
+           family={{van Lanen}},
+           familyi={v\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1b29aff0e88f6a537399711b16202665}{%
+           family={{Vavagiakis}},
+           familyi={V\bibinitperiod},
+           given={Eve\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e9a2c2db1c87174971af0bcdbabea4ac}{%
+           family={{Walker}},
+           familyi={W\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5bf9b5797dfb0bfe77f1d6f3eb94be37}{%
+           family={{Zou}},
+           familyi={Z\bibinitperiod},
+           given={Bugao},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{38eb0f1239af81bf1c2f0b28ab7a3b84}
+      \strng{fullhash}{9146b88692afdd09e8a1480f6984057e}
+      \strng{bibnamehash}{38eb0f1239af81bf1c2f0b28ab7a3b84}
+      \strng{authorbibnamehash}{38eb0f1239af81bf1c2f0b28ab7a3b84}
+      \strng{authornamehash}{38eb0f1239af81bf1c2f0b28ab7a3b84}
+      \strng{authorfullhash}{9146b88692afdd09e8a1480f6984057e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{026005}
+      \field{journaltitle}{Journal of Astronomical Telescopes, Instruments, and Systems}
+      \field{month}{4}
+      \field{title}{{280-GHz aluminum MKID arrays for the Fred Young Submillimeter Telescope}}
+      \field{volume}{11}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{026005}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1117/1.JATIS.11.2.026005
+      \endverb
+      \keyw{aluminum microwave kinetic inductance detector,large-format microwave kinetic inductance detector array,kinetic inductance,superconducting detector,millimeter-wave,polarimeter}
+    \endentry
     \entry{freundt2024CCATStatusUpdate}{inproceedings}{}
       \name{author}{18}{}{%
         {{hash=f071fce1537dc6746d6e562a63e119c1}{%
@@ -714,6 +1037,7 @@
       \field{journaltitle}{The Astrophysical Journal Supplement Series}
       \field{langid}{english}
       \field{month}{12}
+      \field{note}{et al. including R.~G.~Freundt}
       \field{number}{1}
       \field{shortjournal}{ApJS}
       \field{shorttitle}{{{CCAT-prime Collaboration}}}

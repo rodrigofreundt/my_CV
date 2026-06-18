@@ -3,8 +3,34 @@
 
 % Choose bibliography style for formatting list of publications
 \usepackage[style=ieee,url=false,doi=false,maxbibnames=20,sorting=ydnt,dashed=false]{biblatex}
-  
+
+\newcommand{\jcap}{J. Cosmology Astropart. Phys.}
+\newcommand{\apj}{Astrophys. J.}
+\newcommand{\apjl}{Astrophys. J. Lett.}
+\newcommand{\apjs}{Astrophys. J. Suppl.}
+\newcommand{\aap}{Astron. Astrophys.}
+\newcommand{\mnras}{Mon. Not. R. Astron. Soc.}
+\newcommand{\prd}{Phys. Rev. D}
+\newcommand{\prl}{Phys. Rev. Lett.}
+
 \bibliography{papers}
+
+\DeclareNameFormat{firstauthor}{%
+  \ifnumequal{\value{listcount}}{1}
+    {\namepartfamily, \namepartgiveni}%
+    {}%
+}
+
+\renewbibmacro*{author}{%
+  \ifnumgreater{\value{author}}{20}
+    {%
+      \printnames[firstauthor]{author}%
+      \setunit{\addspace}%
+      \printtext{et al.\ (including \textbf{R.~G.~Freundt})}%
+    }%
+    {\printnames{author}}%
+}
+
 
 % Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue, Blue
 \def\theme{black}
@@ -24,18 +50,19 @@
 }
 
 % Page One
+\import{sections/}{summary.tex}
 \import{sections/}{education.tex}
 \import{sections/}{experience.tex}
 
-\pagebreak
+%\pagebreak
 
 % Page Two
-\import{sections/}{publications.tex}
-\import{sections/}{teaching.tex}
-%\sidebyside
+
 \import{sections/}{skills.tex}
-%{\import{sections/}{projects.tex}} % CHANGE TO LAB SKILLS (CRYO, ELECTRONICS, ETC)
+%{\import{sections/}{projects.tex}}
 \import{sections/}{awards.tex}
 %\import{sections/}{volunteering.tex}
-
+\import{sections/}{teaching.tex}
+%\sidebyside
+\import{sections/}{publications.tex}
 \end{document}
