@@ -123,7 +123,373 @@
       \verb{doi}
       \verb 10.1109/TASC.2026.3669460
       \endverb
-      \keyw{Stripline;Instruments;Circuits;Detectors;Coaxial cables;Radio frequency;Electrical resistance measurement;Copper;Crosstalk;Cameras;Cosmic microwave background (CMB);flexible circuits;instrumentation;kinetic inductance detector (KID);readout,firstauthor}
+      \keyw{Stripline;Instruments;Circuits;Detectors;Coaxial cables;Radio frequency;Electrical resistance measurement;Copper;Crosstalk;Cameras;Cosmic microwave background (CMB);flexible circuits;instrumentation;kinetic inductance detector (KID);readout}
+    \endentry
+    \entry{Lin_2026}{article}{}
+      \name{author}{29}{}{%
+        {{hash=8f2aaddc2391faeb7c5bfd2dc79717d9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Lawrence\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=1b29aff0e88f6a537399711b16202665}{%
+           family={Vavagiakis},
+           familyi={V\bibinitperiod},
+           given={Eve\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8ff6f46c1336d9188363023408521202}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={Jason\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=dd9eed647211d950f9b13c58aaeae244}{%
+           family={Burgoyne},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=963622793bb6b9ba18625d5b98abaf03}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9d727e0bafb6837c4f9f54bfe4ebf983}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Steve\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b123e7c214e0cda77d65b3456b16b91f}{%
+           family={Crites},
+           familyi={C\bibinitperiod},
+           given={Abigail\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=dc4245bb577b4febb782ac673650715a}{%
+           family={Duell},
+           familyi={D\bibinitperiod},
+           given={Cody\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d787e5d8fa18d03d7ec7df7425039e2d}{%
+           family={Freundt},
+           familyi={F\bibinitperiod},
+           given={Rodrigo\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=ff6823e0f1f1d605b9d013d0b1518964}{%
+           family={Gazda},
+           familyi={G\bibinitperiod},
+           given={Eliza},
+           giveni={E\bibinitperiod}}}%
+        {{hash=de47bfec4e7911353eda19f89a7b6f05}{%
+           family={Groppi},
+           familyi={G\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ecc7ff94e9313dfef4134d8521067f4c}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Anthony\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=e1a64cc44a6d6d182ee3f98ed76d2cd0}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Zachary\bibnamedelima B.},
+           giveni={Z\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=827a90b8324b4ff3b15a7d16a76aa7fa}{%
+           family={Hubmayr},
+           familyi={H\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c4a882febc8a5b27211720c0f5263380}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f048171eda7da5fe5293b7513c05bff7}{%
+           family={Mauskopf},
+           familyi={M\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e8640e03c85600b1a7e9045eddda0bdf}{%
+           family={Middleton},
+           familyi={M\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=20b1afb78e8d49b460a32a8f27b39cc2}{%
+           family={Niemack},
+           familyi={N\bibinitperiod},
+           given={Michael\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=06458cf2f0469b8795f9cf4c1d3a27cb}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Darshan\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bf15028ac59dbf05c3d0a0702be9b628}{%
+           family={Roberson},
+           familyi={R\bibinitperiod},
+           given={Cody},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e667d6ef5b97d9a153ee17661d320f19}{%
+           family={Sinclair},
+           familyi={S\bibinitperiod},
+           given={Adrian\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=d871d5de85f0d866b634f0339399cd80}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Ema},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9055237846610f85e5d060476d033d2e}{%
+           family={Vaskuri},
+           familyi={V\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=eff6de20bfd3a81b2848460af07d0b95}{%
+           family={Vaughan},
+           familyi={V\bibinitperiod},
+           given={Benjamin\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e9a2c2db1c87174971af0bcdbabea4ac}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=141a1e7404c5b53546fb09821c56717a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f09bcf039fad548685e22adbafd36be1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuhan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a0ef55132a6ec4e6a610245c69802cc5}{%
+           family={Wheeler},
+           familyi={W\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8ea668f3fd27d93bbf2f29035e7849f0}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Ruixuan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers (IEEE)}%
+      }
+      \strng{namehash}{7dbee2a50f8b328e45467f9177bf8fa1}
+      \strng{fullhash}{fedd5d15d77856cff17776ad2f96473d}
+      \strng{bibnamehash}{7dbee2a50f8b328e45467f9177bf8fa1}
+      \strng{authorbibnamehash}{7dbee2a50f8b328e45467f9177bf8fa1}
+      \strng{authornamehash}{7dbee2a50f8b328e45467f9177bf8fa1}
+      \strng{authorfullhash}{fedd5d15d77856cff17776ad2f96473d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2378-7074}
+      \field{journaltitle}{IEEE Transactions on Applied Superconductivity}
+      \field{number}{6}
+      \field{title}{CCAT: Mod-Cam Cryogenic Performance and Its Impact on 280-GHz KID Array Noise}
+      \field{volume}{36}
+      \field{year}{2026}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/tasc.2026.3722806
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1109/TASC.2026.3722806
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1109/TASC.2026.3722806
+      \endverb
+      \keyw{collaboration}
+    \endentry
+    \entry{Patel_2026}{article}{}
+      \name{author}{29}{}{%
+        {{hash=06458cf2f0469b8795f9cf4c1d3a27cb}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Darshan\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f09bcf039fad548685e22adbafd36be1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuhan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=dc4245bb577b4febb782ac673650715a}{%
+           family={Duell},
+           familyi={D\bibinitperiod},
+           given={Cody\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8ff6f46c1336d9188363023408521202}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={Jason\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=914a734fa56b1c8540e9e8fd762a3b64}{%
+           family={Beall},
+           familyi={B\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dd9eed647211d950f9b13c58aaeae244}{%
+           family={Burgoyne},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=963622793bb6b9ba18625d5b98abaf03}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9d727e0bafb6837c4f9f54bfe4ebf983}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Steve\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=d787e5d8fa18d03d7ec7df7425039e2d}{%
+           family={Freundt},
+           familyi={F\bibinitperiod},
+           given={Rodrigo\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=ff6823e0f1f1d605b9d013d0b1518964}{%
+           family={Gazda},
+           familyi={G\bibinitperiod},
+           given={Eliza},
+           giveni={E\bibinitperiod}}}%
+        {{hash=de47bfec4e7911353eda19f89a7b6f05}{%
+           family={Groppi},
+           familyi={G\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e1a64cc44a6d6d182ee3f98ed76d2cd0}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Zachary\bibnamedelima B.},
+           giveni={Z\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=827a90b8324b4ff3b15a7d16a76aa7fa}{%
+           family={Hubmayr},
+           familyi={H\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c4a882febc8a5b27211720c0f5263380}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8f2aaddc2391faeb7c5bfd2dc79717d9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Lawrence\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=f048171eda7da5fe5293b7513c05bff7}{%
+           family={Mauskopf},
+           familyi={M\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e8640e03c85600b1a7e9045eddda0bdf}{%
+           family={Middleton},
+           familyi={M\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=20b1afb78e8d49b460a32a8f27b39cc2}{%
+           family={Niemack},
+           familyi={N\bibinitperiod},
+           given={Michael\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=bf15028ac59dbf05c3d0a0702be9b628}{%
+           family={Roberson},
+           familyi={R\bibinitperiod},
+           given={Cody},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e667d6ef5b97d9a153ee17661d320f19}{%
+           family={Sinclair},
+           familyi={S\bibinitperiod},
+           given={Adrian\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=d871d5de85f0d866b634f0339399cd80}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Ema},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7bedf132eb833d556626d923a5b872e2}{%
+           family={Lanen},
+           familyi={L\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=9055237846610f85e5d060476d033d2e}{%
+           family={Vaskuri},
+           familyi={V\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=eff6de20bfd3a81b2848460af07d0b95}{%
+           family={Vaughan},
+           familyi={V\bibinitperiod},
+           given={Benjamin\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1b29aff0e88f6a537399711b16202665}{%
+           family={Vavagiakis},
+           familyi={V\bibinitperiod},
+           given={Eve\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bf2d0d7ffb2d2c6a914f73bab728a633}{%
+           family={Vissers},
+           familyi={V\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e9a2c2db1c87174971af0bcdbabea4ac}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a0ef55132a6ec4e6a610245c69802cc5}{%
+           family={Wheeler},
+           familyi={W\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8ea668f3fd27d93bbf2f29035e7849f0}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Ruixuan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers (IEEE)}%
+      }
+      \strng{namehash}{0b909cf43e3d92829899f4a012b0a47f}
+      \strng{fullhash}{f5f519af68c4d8fdd32bd28c86c2c9f6}
+      \strng{bibnamehash}{0b909cf43e3d92829899f4a012b0a47f}
+      \strng{authorbibnamehash}{0b909cf43e3d92829899f4a012b0a47f}
+      \strng{authornamehash}{0b909cf43e3d92829899f4a012b0a47f}
+      \strng{authorfullhash}{f5f519af68c4d8fdd32bd28c86c2c9f6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2378-7074}
+      \field{journaltitle}{IEEE Transactions on Applied Superconductivity}
+      \field{number}{6}
+      \field{title}{CCAT: Design, Implementation, and Testing of a System to Read Out Over 10 000 280 GHz KIDs Using RFSoC Electronics}
+      \field{volume}{36}
+      \field{year}{2026}
+      \true{nocite}
+      \field{pages}{2503607\bibrangedash 2503607}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/tasc.2026.3722062
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1109/TASC.2026.3722062
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1109/TASC.2026.3722062
+      \endverb
+      \keyw{collaboration}
     \endentry
     \entry{Calabrese_2025}{article}{}
       \name{author}{172}{}{%
@@ -4861,7 +5227,6 @@
       \verb{url}
       \verb http://dx.doi.org/10.3847/1538-4357/acff5f
       \endverb
-      \keyw{collaboration}
     \endentry
     \entry{Qu_2024}{article}{}
       \name{author}{158}{}{%
@@ -5690,7 +6055,6 @@
       \verb{url}
       \verb http://dx.doi.org/10.3847/1538-4357/acfe06
       \endverb
-      \keyw{collaboration}
     \endentry
     \entry{zou2024CCATCharacterizingFabryPerot}{inproceedings}{}
       \name{author}{9}{}{%
