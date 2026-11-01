@@ -123,7 +123,7 @@
       \verb{doi}
       \verb 10.1109/TASC.2026.3669460
       \endverb
-      \keyw{collaboration}
+      \keyw{firstauthor}
     \endentry
     \entry{Lin_2026}{article}{}
       \name{author}{29}{}{%
@@ -474,7 +474,7 @@
       \field{issn}{2378-7074}
       \field{journaltitle}{IEEE Transactions on Applied Superconductivity}
       \field{number}{6}
-      \field{title}{CCAT: Design, Implementation, and Testing of a System to Read Out Over 10 000 280 GHz KIDs Using RFSoC Electronics}
+      \field{title}{CCAT: Design, Implementation, and Testing of a System to Read Out Over 10000 280 GHz KIDs Using RFSoC Electronics}
       \field{volume}{36}
       \field{year}{2026}
       \true{nocite}
